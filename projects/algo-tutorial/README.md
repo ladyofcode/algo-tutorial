@@ -1,3 +1,26 @@
+# Assignment complete
+
+I DID THE THING??
+
+https://lora.algokit.io/testnet/application/722424786
+
+## A few notes:
+- I spent about two hours getting to the point of testing it on localnet; I pretty much just fixed all the error messages and my gut tells me there's a better way to write what I have written; I'm not used to types in Python.
+- Half of that was figuring out how to pass the transaction parameters because I didn't find anything that explicitly stated I'd need to change that in the deploy file.
+- At this point my questions would have revolved around setting the up accounts to work with the testnet - how to change the wallet and account from whatever the default was. 
+- I was having fun and refused to be defeated so close to the finish line so I finished it anyway.
+
+## Questions/further investigation:
+- How does the wallet and account work? There seemed to be two separate ID numbers and I don't actually know where the non-wallet one comes from.
+- How can I refund the rest of the tokens? I have readded the connection in Defly and it's still not letting me refund.
+- What are the tradeoffs for using Beaker? I had intially tried that because I found an example in one of Algorand's articles, but then changed it because we're supposed to use Puya.
+- How can I verify the data's been put into the box successfully before I deploy? Or that the box isn't empty? Better yet - how would something like this be done with larger data sets?
+
+Ah, well. That was interesting.
+
+--------------------------------------------------------------------------------
+
+
 # algo-tutorial
 
 This project has been generated using AlgoKit. See below for default getting started instructions.
