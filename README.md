@@ -12,7 +12,7 @@ https://lora.algokit.io/testnet/application/722424786
 
 ## Questions/further investigation:
 - How does the wallet and account work? There seemed to be two separate ID numbers and I don't actually know where the non-wallet one comes from.
-- I have no idea how to edit the deploy file to call the application (as per the instructions) there instead of the command line, so would need to figure that out.
+- Beyond what is already there, I have no idea how to edit the deploy file to call the application (as per the instructions) there instead of the command line, so would need to figure that out.
 - How can I refund the rest of the tokens? I have readded the connection in Defly and it's still not letting me refund.
 - What are the tradeoffs for using Beaker? I had intially tried that because I found an example in one of Algorand's articles, but then changed it because we're supposed to use Puya.
 - How can I verify the data's been put into the box successfully before I deploy? Or that the box isn't empty? Better yet - how would something like this be done with larger data sets?
